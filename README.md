@@ -1,3 +1,3 @@
-# prisma-orm-express-practice
+# Prisma ORM Express Practice
 
 ## Tutorial by VoidFnc
